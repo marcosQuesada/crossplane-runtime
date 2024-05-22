@@ -27,10 +27,10 @@ import (
 	"k8s.io/client-go/util/retry"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	xpv1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
-	"github.com/crossplane/crossplane-runtime/pkg/errors"
-	"github.com/crossplane/crossplane-runtime/pkg/meta"
-	"github.com/crossplane/crossplane-runtime/pkg/resource"
+	xpv1 "github.com/marcosQuesada/crossplane-runtime/apis/common/v1"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/errors"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/meta"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/resource"
 )
 
 // Error strings.

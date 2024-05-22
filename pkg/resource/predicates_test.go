@@ -28,10 +28,10 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/event"
 
-	runtimev1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
-	"github.com/crossplane/crossplane-runtime/pkg/errors"
-	"github.com/crossplane/crossplane-runtime/pkg/meta"
-	"github.com/crossplane/crossplane-runtime/pkg/resource/fake"
+	runtimev1 "github.com/marcosQuesada/crossplane-runtime/apis/common/v1"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/errors"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/meta"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/resource/fake"
 )
 
 func TestAnyOf(t *testing.T) {

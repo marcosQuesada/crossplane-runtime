@@ -31,7 +31,7 @@ import (
 	"k8s.io/apimachinery/pkg/util/yaml"
 	"k8s.io/client-go/kubernetes"
 
-	"github.com/crossplane/crossplane-runtime/pkg/errors"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/errors"
 )
 
 // AnnotatedReadCloser is a wrapper around io.ReadCloser that allows

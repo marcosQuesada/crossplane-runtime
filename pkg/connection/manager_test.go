@@ -27,14 +27,14 @@ import (
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	v1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
-	"github.com/crossplane/crossplane-runtime/pkg/connection/fake"
-	"github.com/crossplane/crossplane-runtime/pkg/connection/store"
-	"github.com/crossplane/crossplane-runtime/pkg/errors"
-	"github.com/crossplane/crossplane-runtime/pkg/reconciler/managed"
-	"github.com/crossplane/crossplane-runtime/pkg/resource"
-	resourcefake "github.com/crossplane/crossplane-runtime/pkg/resource/fake"
-	"github.com/crossplane/crossplane-runtime/pkg/test"
+	v1 "github.com/marcosQuesada/crossplane-runtime/apis/common/v1"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/connection/fake"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/connection/store"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/errors"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/reconciler/managed"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/resource"
+	resourcefake "github.com/marcosQuesada/crossplane-runtime/pkg/resource/fake"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/test"
 )
 
 const (

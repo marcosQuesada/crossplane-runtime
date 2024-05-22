@@ -22,8 +22,8 @@ import (
 
 	"github.com/hashicorp/vault/api"
 
-	"github.com/crossplane/crossplane-runtime/pkg/errors"
-	"github.com/crossplane/crossplane-runtime/pkg/resource"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/errors"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/resource"
 )
 
 // We use this prefix to store metadata of v1 secrets as there is no dedicated

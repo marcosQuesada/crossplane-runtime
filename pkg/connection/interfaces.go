@@ -19,9 +19,9 @@ package connection
 import (
 	"context"
 
-	v1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
-	"github.com/crossplane/crossplane-runtime/pkg/connection/store"
-	"github.com/crossplane/crossplane-runtime/pkg/resource"
+	v1 "github.com/marcosQuesada/crossplane-runtime/apis/common/v1"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/connection/store"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/resource"
 )
 
 // A StoreConfig configures a connection store.

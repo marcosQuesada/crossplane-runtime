@@ -16,7 +16,7 @@ limitations under the License.
 
 package resource
 
-import "github.com/crossplane/crossplane-runtime/pkg/resource/fake"
+import "github.com/marcosQuesada/crossplane-runtime/pkg/resource/fake"
 
 // We test that our fakes satisfy our interfaces here rather than in the fake
 // package to avoid a cyclic dependency.

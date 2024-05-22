@@ -22,7 +22,7 @@ import (
 
 	"github.com/hashicorp/vault/api"
 
-	"github.com/crossplane/crossplane-runtime/pkg/resource"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/resource"
 )
 
 const (

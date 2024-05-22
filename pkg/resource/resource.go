@@ -30,9 +30,9 @@ import (
 	"k8s.io/client-go/util/retry"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	xpv1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
-	"github.com/crossplane/crossplane-runtime/pkg/errors"
-	"github.com/crossplane/crossplane-runtime/pkg/meta"
+	xpv1 "github.com/marcosQuesada/crossplane-runtime/apis/common/v1"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/errors"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/meta"
 )
 
 // SecretTypeConnection is the type of Crossplane connection secrets.
