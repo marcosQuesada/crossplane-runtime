@@ -31,7 +31,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/manager"
 
-	xpv1 "github.com/crossplane/crossplane-runtime/apis/common/v1"
+	xpv1 "github.com/marcosQuesada/crossplane-runtime/apis/common/v1"
 )
 
 // Conditioned is a mock that implements Conditioned interface.

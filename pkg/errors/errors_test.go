@@ -21,7 +21,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/crossplane/crossplane-runtime/pkg/test"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/test"
 )
 
 func TestWrap(t *testing.T) {

@@ -18,7 +18,7 @@
 package fake
 
 import (
-	"github.com/crossplane/crossplane-runtime/pkg/connection/store/vault/kv"
+	"github.com/marcosQuesada/crossplane-runtime/pkg/connection/store/vault/kv"
 )
 
 // KVClient is a fake KVClient.

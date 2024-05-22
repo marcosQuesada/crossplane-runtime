@@ -1,5 +1,5 @@
 # crossplane-runtime
-[![CI](https://github.com/crossplane/crossplane-runtime/actions/workflows/ci.yml/badge.svg)](https://github.com/crossplane/crossplane-runtime/actions/workflows/ci.yml) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/crossplane/crossplane-runtime) [![Godoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/crossplane/crossplane-runtime)
+[![CI](https://github.com/marcosQuesada/crossplane-runtime/actions/workflows/ci.yml/badge.svg)](https://github.com/marcosQuesada/crossplane-runtime/actions/workflows/ci.yml) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/crossplane/crossplane-runtime) [![Godoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/marcosQuesada/crossplane-runtime)
 
 ## Overview
 
@@ -48,9 +48,9 @@ crossplane-runtime is under the Apache 2.0 license.
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrossplane%2Fcrossplane-runtime.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrossplane%2Fcrossplane-runtime?ref=badge_large)
 
 [developer guide]: https://github.com/crossplane/crossplane/tree/master/contributing
-[API documentation]: https://godoc.org/github.com/crossplane/crossplane-runtime
+[API documentation]: https://godoc.org/github.com/marcosQuesada/crossplane-runtime
 [contributing]: https://github.com/crossplane/crossplane/blob/master/CONTRIBUTING.md
-[issue]: https://github.com/crossplane/crossplane-runtime/issues
+[issue]: https://github.com/marcosQuesada/crossplane-runtime/issues
 [slack channel]: https://slack.crossplane.io
 [crossplane-dev]: https://groups.google.com/forum/#!forum/crossplane-dev
 [@crossplane_io]: https://twitter.com/crossplane_io
